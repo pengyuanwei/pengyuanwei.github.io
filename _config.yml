@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Pengyuan Wei"
-  avatar           : "py_wei.png"
+  avatar           : "pengyuanwei.png"
   bio              : "A PhD student at University College London"
   location         : "London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=lyb1xjAAAAAJ&hl=en"
   email            : "ucabpw3@ucl.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Pengyuan-Wei"
   uri              :
   bitbucket        :
   codepen          :
