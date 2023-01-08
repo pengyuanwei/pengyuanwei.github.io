@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pengyuan Wei"
+  name             : "Pengyuan Wei <br />魏鹏远"
   avatar           : "pengyuanwei.jpg"
   bio              : "A PhD student at University College London"
   location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=lyb1xjAAAAAJ&hl=en"
   email            : "ucabpw3@ucl.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Pengyuan-Wei"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pengyuanwei"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "pengyuan-wei-928b0023b/"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
