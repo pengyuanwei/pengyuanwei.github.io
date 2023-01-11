@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome here!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hope here is something you want.
+Hello! I’m Pengyuan Wei. I’m a postgraduate research student at the University College London, in the department of computer science. My research interests are swarm robotics and reinforcement learning.
 
 A data-driven personal website
 ======
