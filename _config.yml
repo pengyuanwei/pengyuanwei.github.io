@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pengyuan Wei <br />魏鹏远"
   avatar           : "pengyuanwei.jpg"
-  bio              : "PhD student at University College London, [department of computer science](https://www.ucl.ac.uk/computer-science/ucl-computer-science) and [Robotics Institute](https://www.ucl.ac.uk/robotics/ucl-robotics-institute-0)"
+  bio              : "PhD student at University College London, <a style='color: black;' href='https://www.ucl.ac.uk/computer-science/ucl-computer-science'>Department of Computer Science</a> & <a style='color: black;' href='https://www.ucl.ac.uk/robotics/ucl-robotics-institute-0'>Robotics Institute</a>"
   location         : "London, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
