@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Pengyuan Wei. I’m a postgraduate research student at the University College London, in the department of computer science. My research interests are swarm robotics and reinforcement learning.
+Hello! I’m Pengyuan Wei. I’m a postgraduate research student at the University College London, in the [department of computer science](https://www.ucl.ac.uk/computer-science/ucl-computer-science) and the [Robotics Institute](https://www.ucl.ac.uk/robotics/ucl-robotics-institute-0). I'm a robotics researcher and I have learned a wide range of knowledge in the fields of mechanics, electronics, automation and computers. I have always been interested in reinforcement learning. Currently, I am focusing on coordination methods for swarm robots.
 
 A data-driven personal website
 ======
