@@ -25,7 +25,7 @@ Research Interest
 
 Background and History
 ======
-I received my Bachelor Degree at Beijing University of chemical technology in 2021, the major is Mechanical Automation; and my Master Degree at University of Bristol, the major is Biorobotics. 
+I received my Bachelor Degree at Beijing University of Chemical Technology in 2021, the major is Mechanical Automation; and my Master Degree at University of Bristol in 2022, the major is Biorobotics. 
 
 Create content & metadata
 ------
