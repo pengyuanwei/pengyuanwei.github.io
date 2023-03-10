@@ -35,5 +35,6 @@ Before I joined UCL, I received my Bachelor Degree at Beijing University of Chem
 News
 ======
 <ul>
-<li>16/01/2023: I'm officially a postgraduate research student.</li>
+<li>01/02/2023: I receive funding from the EPSRC project: Swarm Social Sound Modulators.</li>
+<li>16/01/2023: I am officially a postgraduate research student.</li>
 </ul>
