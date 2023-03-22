@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download the document (Mar. 2023)](https://pengyuanwei.com/files/CV_PengyuanWei.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
