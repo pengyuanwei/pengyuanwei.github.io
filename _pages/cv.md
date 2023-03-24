@@ -28,7 +28,7 @@ Skills
 * Reinforcement Learning   
 * Deep Reinforcement Learning  
 * Python Projects 
-* C and C++ Projects   
+* C and C++ Projects
 * Arduino Projects  
 * Engineering drawing 
 
