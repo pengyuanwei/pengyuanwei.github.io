@@ -28,7 +28,7 @@ I have always been interested in reinforcement learning. Currently, I am focusin
 
 Background and History
 ======
-Before I joined UCL, I received my Bachelor Degree at Beijing University of Chemical Technology in 2021, the major is Mechanical Automation; and my Master Degree at University of Bristol in 2022, the major is Biorobotics. 
+Before I joined UCL, I received my Bachelor Degree at the Beijing University of Chemical Technology in 2021, the major is Mechanical Automation; and my Master Degree at the University of Bristol in 2022, the major is Biorobotics. 
 
 <br />
 
