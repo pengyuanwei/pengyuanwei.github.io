@@ -43,5 +43,5 @@ News
 
 Visitor Flag Counter
 ======
-This counter is set up for curiosity, starting from March 14th, 2023.
+This counter is set up for curiosity, starting from March 14th, 2023, counts which countries or regions the visitors come from.
 <a href="https://info.flagcounter.com/UTfe"><img src="https://s11.flagcounter.com/countxl/UTfe/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
