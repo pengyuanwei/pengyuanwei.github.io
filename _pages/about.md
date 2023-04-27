@@ -14,14 +14,14 @@ Hello! I’m Pengyuan Wei. I’m a postgraduate research student at the Universi
 
 Work and Research
 ======
-I have always been interested in reinforcement learning. Currently, I am focusing on coordination methods for swarm robots. I use reinforcement learning methods to provide solutions for the coordination of swarm robots.
+I have always been interested in reinforcement learning. Currently, I am focusing on cooperative multi-agent reinforcement learning methods for multi-robot learning. 
 
 **Keywords of research interest:**
 <ul>
 <li>Reinforcement Learning</li>
-<li>Multi-agent Reinforcement Learning</li>
+<li>Multi-Agent Reinforcement Learning</li>
 <li>Robot Learning</li>
-<li>Swarm Coordination</li>
+<li>Swarm Robotics</li>
 </ul>
 
 <br />
