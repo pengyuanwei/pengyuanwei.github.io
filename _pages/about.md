@@ -20,8 +20,7 @@ I have always been interested in reinforcement learning. Currently, I am focusin
 <ul>
 <li>Reinforcement Learning</li>
 <li>Multi-Agent Reinforcement Learning</li>
-<li>Robot Learning</li>
-<li>Swarm Robotics</li>
+<li>Multi-Robot Path Planning</li>
 </ul>
 
 <br />
