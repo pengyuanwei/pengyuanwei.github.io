@@ -35,8 +35,9 @@ Before I joined UCL, I received my Bachelor Degree at the Beijing University of 
 News
 ======
 <ul>
+<li>29/05/2023: I participated in ICRA 2023 held in London as a volunteer.</li>
 <li>01/02/2023: I receive funding from the EPSRC project: Swarm Social Sound Modulators.</li>
-<li>16/01/2023: I am officially a postgraduate research student.</li>
+<li>16/01/2023: I am officially a PhD student.</li>
 </ul>
 
 <br />
