@@ -27,13 +27,14 @@ I have always been interested in reinforcement learning. Currently, I am focusin
 
 Background and History
 ======
-Before I joined UCL, I received my Bachelor Degree at the Beijing University of Chemical Technology in 2021, the major is Mechanical Automation; and my Master Degree at the University of Bristol in 2022, the major is Biorobotics. 
+Before I joined UCL, I received my Bachelor's Degree at the Beijing University of Chemical Technology in 2021, a major in Mechanical Automation; and my Master's Degree at the University of Bristol in 2022, a major in Biorobotics. 
 
 <br />
 
 News
 ======
 <ul>
+<li>01/09/2023: I became a TA for the course Designing Sensor Systems. </li>
 <li>29/05/2023: I participated in ICRA 2023 held in London as a volunteer.</li>
 <li>01/02/2023: I receive funding from the EPSRC project: Swarm Social Sound Modulators.</li>
 <li>16/01/2023: I am officially a PhD student.</li>
@@ -43,5 +44,5 @@ News
 
 Visitor Flag Counter
 ======
-This counter is set up for curiosity, starting from March 14th, 2023, counts which countries or regions the visitors come from.
+This counter is set up for curiosity, starting from March 14th, 2023, and counts which countries or regions the visitors come from.
 <a href="https://info.flagcounter.com/UTfe"><img src="https://s11.flagcounter.com/countxl/UTfe/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
