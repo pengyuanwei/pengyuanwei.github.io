@@ -34,10 +34,13 @@ Before I joined UCL, I received my Bachelor's Degree at the Beijing University o
 News
 ======
 <ul>
-<li>01/09/2023: I became a TA for the course Designing Sensor Systems. </li>
-<li>29/05/2023: I participated in ICRA 2023 held in London as a volunteer.</li>
-<li>01/02/2023: I receive funding from the EPSRC project: Swarm Social Sound Modulators.</li>
-<li>16/01/2023: I am officially a PhD student.</li>
+<li>30/08/2025: My project “Contactless Manipulation of Multiple Droplets Based on Acoustic Levitation” has been accepted as a Late Breaking Result (LBR) poster at IROS 2025. </li>
+<li>01/02/2025: I am supervising the master’s thesis "A Multi-Agent Reinforcement Learning Model for Acoustophoretic Data Physicalization with AcoustoBots". </li>
+<li>01/09/2024: I became a TA for the course COMP0030: Research Methods. </li>
+<li>15/07/2024: I passed the upgrade viva and became a PhD candidate. </li>
+<li>29/05/2023: I participated in ICRA 2023 held in London as a volunteer. </li>
+<li>01/02/2023: I receive funding from the EPSRC project: Swarm Social Sound Modulators. </li>
+<li>16/01/2023: I am officially a PhD student. </li>
 </ul>
 
 <br />
