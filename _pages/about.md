@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Pengyuan Wei. I’m a postgraduate research student at the University College London, in the [Department of Computer Science](https://www.ucl.ac.uk/computer-science/ucl-computer-science) and the [Robotics Institute](https://www.ucl.ac.uk/robotics/ucl-robotics-institute-0). I'm a robotics researcher and I have learned a wide range of knowledge in the fields of mechanics, electronics, automation and computers. 
+Hello! I’m Pengyuan Wei. I’m a PhD candidate at the University College London, in the [Department of Computer Science](https://www.ucl.ac.uk/computer-science/ucl-computer-science) and the [Robotics Institute](https://www.ucl.ac.uk/robotics/ucl-robotics-institute-0). 
 
 <br />
 
 Work and Research
 ======
-I have always been interested in reinforcement learning. Currently, I am focusing on cooperative multi-agent reinforcement learning methods for multi-robot learning. 
+I am a robotics researcher with a broad background in mechanics, electronics, automation, and computer science, and a strong interest in reinforcement learning.
 
 **Keywords of research interest:**
 <ul>
-<li>Reinforcement Learning</li>
-<li>Multi-Agent Reinforcement Learning</li>
-<li>Multi-Robot Path Planning</li>
+<li>Parallelization of acoustic levitation manipulation</li>
+<li>Cooperative multi-agent reinforcement learning methods for multi-robot learning</li>
+<li>Visual-language action model</li>
 </ul>
 
 <br />
